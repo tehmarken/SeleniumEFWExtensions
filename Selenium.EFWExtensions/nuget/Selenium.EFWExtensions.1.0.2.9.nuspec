@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>Selenium.EFWExtensions</id>
+        <version>1.0.2.9</version>
+        <title>Selenium EFW Extensions</title>
+        <authors>Mark Hatcher</authors>
+        <owners>Mark Hatcher</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Description</description>
+        <summary>Selenium extensions/framework focused around an EventFiringWebdriver</summary>
+        <releaseNotes>- Fixed DistanceFromTopOfViewport to return an int</releaseNotes>
+        <copyright>Copyright ©  2015</copyright>
+        <language>en-US</language>
+        <tags>Selenium</tags>
+        <dependencies>
+            <dependency id="NUnit" version="2.6.4" />
+            <dependency id="Selenium.WebDriver" version="2.48.0" />
+            <dependency id="Selenium.Support" version="2.48.0" />
+        </dependencies>
+    </metadata>
+    <files>
+        <file src="content\chromedriver.exe" target="content\chromedriver.exe" />
+        <file src="lib\net45\Selenium.EFWExtensions.dll" target="lib\net45\Selenium.EFWExtensions.dll" />
+        <file src="lib\net45\Selenium.EFWExtensions.XML" target="lib\net45\Selenium.EFWExtensions.xml" />
+        <file src="tools\Install.ps1" target="tools\Install.ps1" />
+    </files>
+</package>

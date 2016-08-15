@@ -1,0 +1,12 @@
+C:\HMI\Selenium.EFWExtensions\Selenium.EFWExtensions\bin\Release\Selenium.EFWExtensions.dll
+C:\HMI\Selenium.EFWExtensions\Selenium.EFWExtensions\bin\Release\Selenium.EFWExtensions.pdb
+C:\HMI\Selenium.EFWExtensions\Selenium.EFWExtensions\bin\Release\nunit.framework.dll
+C:\HMI\Selenium.EFWExtensions\Selenium.EFWExtensions\bin\Release\WebDriver.dll
+C:\HMI\Selenium.EFWExtensions\Selenium.EFWExtensions\bin\Release\WebDriver.Support.dll
+C:\HMI\Selenium.EFWExtensions\Selenium.EFWExtensions\bin\Release\nunit.framework.xml
+C:\HMI\Selenium.EFWExtensions\Selenium.EFWExtensions\bin\Release\WebDriver.xml
+C:\HMI\Selenium.EFWExtensions\Selenium.EFWExtensions\bin\Release\WebDriver.Support.xml
+C:\HMI\Selenium.EFWExtensions\Selenium.EFWExtensions\obj\Release\Selenium.EFWExtensions.dll
+C:\HMI\Selenium.EFWExtensions\Selenium.EFWExtensions\obj\Release\Selenium.EFWExtensions.pdb
+C:\HMI\Selenium.EFWExtensions\Selenium.EFWExtensions\obj\Release\Selenium.EFWExtensions.csprojResolveAssemblyReference.cache
+C:\HMI\Selenium.EFWExtensions\Selenium.EFWExtensions\bin\Release\chromedriver.exe

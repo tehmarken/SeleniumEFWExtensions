@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Selenium.HMIExtensions</id>
+    <version>1.0.3</version>
+    <authors>Mark Hatcher</authors>
+    <owners>Mark Hatcher</owners>
+    <iconUrl>http://i1191.photobucket.com/albums/z478/Boki1986/MML2Servbot.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Some useful Selenium extensions and framework focused on using an  EventFiringWebDriver</description>
+    <releaseNotes>Removed universal WaitForAJAX for .Click() because some pages have continuous AJAX, so this was waiting forever.</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Selenium</tags>
+    <dependencies>
+      
+    </dependencies>
+  </metadata>
+</package>

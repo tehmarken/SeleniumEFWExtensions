@@ -1,0 +1,13 @@
+C:\HMI\Selenium.HMIExtensions\Selenium.HMIExtensions\bin\Debug\chromedriver.exe
+C:\HMI\Selenium.HMIExtensions\Selenium.HMIExtensions\bin\Debug\Selenium.HMIExtensions.dll
+C:\HMI\Selenium.HMIExtensions\Selenium.HMIExtensions\bin\Debug\Selenium.HMIExtensions.pdb
+C:\HMI\Selenium.HMIExtensions\Selenium.HMIExtensions\bin\Debug\nunit.framework.dll
+C:\HMI\Selenium.HMIExtensions\Selenium.HMIExtensions\bin\Debug\WebDriver.dll
+C:\HMI\Selenium.HMIExtensions\Selenium.HMIExtensions\bin\Debug\WebDriver.Support.dll
+C:\HMI\Selenium.HMIExtensions\Selenium.HMIExtensions\bin\Debug\nunit.framework.xml
+C:\HMI\Selenium.HMIExtensions\Selenium.HMIExtensions\bin\Debug\WebDriver.xml
+C:\HMI\Selenium.HMIExtensions\Selenium.HMIExtensions\bin\Debug\WebDriver.Support.xml
+C:\HMI\Selenium.HMIExtensions\Selenium.HMIExtensions\obj\Debug\Selenium.HMIExtensions.dll
+C:\HMI\Selenium.HMIExtensions\Selenium.HMIExtensions\obj\Debug\Selenium.HMIExtensions.pdb
+C:\HMI\Selenium.HMIExtensions\Selenium.HMIExtensions\obj\Debug\Selenium.HMIExtensions.csprojResolveAssemblyReference.cache
+C:\HMI\Selenium.HMIExtensions\Selenium.HMIExtensions\bin\Debug\Selenium.HMIExtensions.XML
